@@ -1,0 +1,1 @@
+Welcome to my data visualization showcase! This is where I display some of the things that I have learned over the years. If you have any questions or would like any clarification, feel free to message me.
