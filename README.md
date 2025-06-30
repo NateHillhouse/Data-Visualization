@@ -9,4 +9,5 @@ I worked through "ServiceNow" during this period in my career, creating dashboar
 Word Iteration.py
   - This file is a small project that I designed to iterate through letters to show a message, almost in the style of the matrix.
 
-
+ResumeDecoder.py
+ - This was a project that I was asked to complete during a resume. It takes data from a website, and takes the table and formats it into data. From there, it takes coordinates to display a code.
