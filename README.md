@@ -7,6 +7,6 @@ Data Visualization Showcase Excel
 I worked through "ServiceNow" during this period in my career, creating dashboards and using the data on the site to lead company processes at Global Services.
 
 Word Iteration.py
-  - This file is a smmall project that I designed to iterate through letters to show a message, almost in the style of the matrix.
+  - This file is a small project that I designed to iterate through letters to show a message, almost in the style of the matrix.
 
 
