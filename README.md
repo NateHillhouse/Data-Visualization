@@ -5,3 +5,8 @@ Data Visualization Showcase Excel
   - I used the Javascript API to organize and name the data, which then allowed me to sort it by type.
 
 I worked through "ServiceNow" during this period in my career, creating dashboards and using the data on the site to lead company processes at Global Services.
+
+Word Iteration.py
+  - This file is a smmall project that I designed to iterate through letters to show a message, almost in the style of the matrix.
+
+
